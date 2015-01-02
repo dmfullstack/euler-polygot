@@ -3,6 +3,8 @@ euler-polygot
 
 Solving Euler Problems in as many languages as I find.
 
+If you want to run these programs, you should have the languages installed at minimum
+
 Run: 
   
   Ruby:
@@ -14,3 +16,5 @@ Run:
 
   Python:
     python test_solution.py
+
+  Go:
