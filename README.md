@@ -21,4 +21,6 @@ Run:
     go test
 
   Java:
-    
+    install the java sdk
+    javac solution.java
+    java solution
