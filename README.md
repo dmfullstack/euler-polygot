@@ -18,3 +18,7 @@ Run:
     python test_solution.py
 
   Go:
+    go test
+
+  Java:
+    
