@@ -22,5 +22,6 @@ Run:
 
   Java:
     install the java sdk
-    javac solution.java
-    java solution
+    install junit appropriately
+    javac Solution.java SolutionTest.java TestRunner.java
+    java TestRunner
