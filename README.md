@@ -22,6 +22,10 @@ Run:
 
   Java:
     install the java sdk
-    install junit appropriately
-    javac Solution.java SolutionTest.java TestRunner.java
-    java TestRunner
+    javac solution.java
+    java solution
+
+  Rust
+    cargo build
+    cargo run
+    run target.exe
